@@ -4,9 +4,9 @@
  <img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 10_33_02 AM" src="https://github.com/user-attachments/assets/c9c5d665-7722-457a-97bf-dcedcdd52adf" />
 </p>
 
-<h1 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/8M6Pz/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGkg👋LCBJJ20gTUQgQWxsYW1hIElxYmFs/vcr-osd-mono.png" alt="Animated Text">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+MD+Allama+Iqbal" alt="Typing SVG" />
+</p>
 
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
