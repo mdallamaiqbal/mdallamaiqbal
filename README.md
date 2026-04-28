@@ -4,8 +4,12 @@
  <img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 10_33_02 AM" src="https://github.com/user-attachments/assets/c9c5d665-7722-457a-97bf-dcedcdd52adf" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+Allama+Iqbal;Full+Stack+Web+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center">Hi 👋, I'm MD Allama Iqbal</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
