@@ -1,6 +1,7 @@
+
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=MD%20Allama%20Iqbal&fontSize=40&fontColor=ffffff" />
+ <img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 10_33_02 AM" src="https://github.com/user-attachments/assets/c9c5d665-7722-457a-97bf-dcedcdd52adf" />
 </p>
 
 
