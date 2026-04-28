@@ -1,70 +1,56 @@
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=MD%20Allama%20Iqbal&fontSize=40&fontColor=ffffff" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Allama Iqbal</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdallamaiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mdallamaiqbal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 - 🌱 Currently I'm learning frontend development step by step  
-- 💻 I like creating modern and responsive websites   
+- 💻 I like creating modern and responsive websites  
 - 🎯 Dream is to become a professional developer and work abroad  
-- 📫 Email: **mdallamaiqbal999@gmail.com**
+- 📫 Email: mdallamaiqbal999@gmail.com  
 
 ---
 
-### Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/mdallamaiqbal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a> </br>
-<a href="https://github.com/mdallamaiqbal" target="blank">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
-</a>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/mdallamaiqbal" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/mdallamaiqbal" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### Languages and Tools
-<p align="left"> 
-<a href="https://www.w3schools.com/css/"   target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/"  target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/"   target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  style="margin: 0 10px;" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mongodb.com/"   target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://nextjs.org/"  target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://reactjs.org/"   target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://tailwindcss.com/"  target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-</a> 
+### 🛠️ Languages and Tools
+<p align="center"> 
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
 </p>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdallamaiqbal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdallamaiqbal&theme=tokyonight" />
@@ -72,7 +58,9 @@
 
 ---
 
-### Top Languages
+### 🔥 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdallamaiqbal&layout=compact&theme=tokyonight" />
 </p>
+
+---
