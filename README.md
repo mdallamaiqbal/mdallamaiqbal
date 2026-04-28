@@ -7,34 +7,37 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Advanced Frontend Development**
-- 💻 I love building modern and responsive web apps
-- 🎯 Goal: Become a professional developer & work internationally
+### About Me
+- 🌱 Currently I'm learning frontend development step by step  
+- 💻 I like creating modern and responsive websites   
+- 🎯 Dream is to become a professional developer and work abroad  
 - 📫 Email: **mdallamaiqbal999@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/mdallamaiqbal" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/mdallamaiqbal" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center"> 
-<a href="https://www.w3schools.com/css/"  style="margin: 0 10px;" target="_blank"> 
+### Languages and Tools
+<p align="left"> 
+<a href="https://www.w3schools.com/css/"   target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://git-scm.com/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://git-scm.com/"  target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.w3.org/html/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://www.w3.org/html/"   target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
 </a> 
 
@@ -42,26 +45,26 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.mongodb.com/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://www.mongodb.com/"   target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://nextjs.org/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://nextjs.org/"  target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://reactjs.org/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://reactjs.org/"   target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </a> 
 
-<a href="https://tailwindcss.com/"  style="margin: 0 10px;" target="_blank"> 
+<a href="https://tailwindcss.com/"  target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
 </a> 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdallamaiqbal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdallamaiqbal&theme=tokyonight" />
@@ -69,7 +72,7 @@
 
 ---
 
-### 🔥 Top Languages
+### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdallamaiqbal&layout=compact&theme=tokyonight" />
 </p>
