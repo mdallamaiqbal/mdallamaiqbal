@@ -5,10 +5,7 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MD+Allama+Iqbal" alt="Typing SVG" />
-  </a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+Allama+Iqbal;Welcome+to+my+GitHub+Profile;Web+Developer+🚀" />
 </h1>
 
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
