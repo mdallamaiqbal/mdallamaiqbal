@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=MD%20Allama%20Iqbal&fontSize=40&fontColor=ffffff" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm MD Allama Iqbal</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
