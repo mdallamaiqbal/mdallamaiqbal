@@ -21,6 +21,7 @@
 - 💻 I love building clean, responsive user interfaces and robust APIs.
 - 🎯 My goal is to collaborate with global tech teams and work on impactful open-source projects.
 - 📫 Reach out to me via Email: **mdallamaiqbal999@gmail.com**
+- 💼 Connect with me on LinkedIn: **[linkedin.com/in/mdallamaiqbal](https://www.linkedin.com/in/mdallamaiqbal)**
 
 ---
 
@@ -55,101 +56,19 @@
 ### 🚀 Projects
 Here are some of my top projects:
 
-1. **📦 Full-Stack MERN Application**
-   - *Description:* A complete e-commerce platform / web app with user authentication, secure payment gateway, and a dynamic admin dashboard.
-   - *Tech Stack:* MongoDB, Express.js, React, Node.js, Tailwind CSS
-   - *Links:* [Live Demo](<!-- TOP BANNER -->
-<p align="center">
-<img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 10_33_02 AM" src="https://github.com/user-attachments/assets/8fd375cd-03e8-45b2-bbae-3537ee17a460" />
-</p>
-
-<h1 align="center">
-  Hi 👋, I'm Md Allama Iqbal
-</h1>
-
-<h3 align="center">🚀 Full Stack / MERN Stack Web Developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdallamaiqbal&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-- 🔭 Currently working on full-stack web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🌱 Sharpening my skills in scalable backend architecture and Next.js performance optimizations.
-- 💻 I love building clean, responsive user interfaces and robust APIs.
-- 🎯 My goal is to collaborate with global tech teams and work on impactful open-source projects.
-- 📫 Reach out to me via Email: **mdallamaiqbal999@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mdallamaiqbal" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mdallamaiqbal" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="center"> 
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/></a>
-</p>
-
----
-
-### 🚀 Projects
-Here are some of my top projects:
-
-1. **📦 Full-Stack MERN Application**
-   - *Description:* ArtHub is a premium digital platform designed to connect art lovers, collectors, and buyers with talented creators worldwide. The platform allows users to seamlessly browse, discover, and purchase            original artworks. It empowers artists to showcase and manage their portfolios while providing admins with powerful tools to oversee the entire ecosystem. 
+1. **🎨 ArtHub – Premium Digital Art Platform**
+   - *Description:* ArtHub is a premium digital platform designed to connect art lovers, collectors, and buyers with talented creators worldwide. The platform allows users to seamlessly browse, discover, and purchase original artworks, empowering artists to manage their portfolios.
    - *Tech Stack:* MongoDB, Express.js, React, Node.js, Tailwind CSS
    - *Links:* [Live Demo](https://art-hub-chi.vercel.app) | [GitHub Repository](https://github.com/mdallamaiqbal/Ideas-Vault)
-   - 
-2. **📦 Full-Stack MERN Application**
-   - *Description:* Ideas Vault A collaborative startup idea-sharing platform where users can post, explore, and discuss innovative business concepts and drive innovation.
+
+2. **💡 Ideas Vault – Startup Sharing Platform**
+   - *Description:* A collaborative startup idea-sharing platform where users can post, explore, and discuss innovative business concepts to drive community innovation.
    - *Tech Stack:* MongoDB, Express.js, React, Node.js, Tailwind CSS
    - *Links:* [Live Demo](https://ideas-vault-tau.vercel.app) | [GitHub Repository](https://github.com/mdallamaiqbal/Ideas-Vault)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdallamaiqbal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdallamaiqbal&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdallamaiqbal&layout=compact&theme=tokyonight" />
-</p>
-
----) | [GitHub Repository](https://github.com/mdallamaiqbal/your-repo)
-
-2. **⚡ Next.js Performance Hub**
-   - *Description:* A server-side rendered (SSR) blog or platform featuring optimized image loading, SEO-friendly routes, and custom API integration.
-   - *Tech Stack:* Next.js, React, Tailwind CSS, REST API
-   - *Links:* [Live Demo](https://your-live-link.com) | [GitHub Repository](https://github.com/mdallamaiqbal/your-repo)
-
-3. **🎨 React Dynamic Dashboard**
-   - *Description:* An interactive dashboard focusing on real-time data visualization, charts, and fluid user experience with state management.
-   - *Tech Stack:* React.js, Context API / Redux, Chart.js, CSS Modules
+3. **⚡ Next.js Full-Stack Application**
+   - *Description:* A server-side rendered (SSR) fully optimized web application featuring advanced user management, optimized SEO routes, and secure API integrations.
+   - *Tech Stack:* Next.js, React, Tailwind CSS, Node.js, REST APIs
    - *Links:* [Live Demo](https://your-live-link.com) | [GitHub Repository](https://github.com/mdallamaiqbal/your-repo)
 
 ---
