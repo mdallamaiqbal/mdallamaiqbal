@@ -66,24 +66,26 @@ Here are some of my top projects:
    - *Tech Stack:* MongoDB, Express.js, React, Node.js, Tailwind CSS
    - *Links:* [Live Demo](https://ideas-vault-tau.vercel.app) | [GitHub Repository](https://github.com/mdallamaiqbal/Ideas-Vault)
 
-3. **⚡ Next.js Full-Stack Application**
-   - *Description:* A server-side rendered (SSR) fully optimized web application featuring advanced user management, optimized SEO routes, and secure API integrations.
-   - *Tech Stack:* Next.js, React, Tailwind CSS, Node.js, REST APIs
-   - *Links:* [Live Demo](https://your-live-link.com) | [GitHub Repository](https://github.com/mdallamaiqbal/your-repo)
-
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdallamaiqbal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdallamaiqbal&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdallamaiqbal&layout=compact&theme=tokyonight" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdallamaiqbal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdallamaiqbal&theme=tokyonight" alt="GitHub Streak" height="180px" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdallamaiqbal&layout=compact&theme=tokyonight" alt="Top Languages" width="450px" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
